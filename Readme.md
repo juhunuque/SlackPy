@@ -25,7 +25,11 @@ Basically we are using a web hook to create more commands in the channels of Sla
 ## References
 
 Using SLACK API - https://realpython.com/blog/python/getting-started-with-the-slack-api-using-python-and-flask/
+
 Using Google Sheet API - https://github.com/burnash/gspread
+
 Getting OAuth2 token in Google Developers Console - http://gspread.readthedocs.io/en/latest/oauth2.html
+
 Exposing a internal address externally - https://ngrok.com/
+
 VirtualEnv - https://realpython.com/blog/python/python-virtual-environments-a-primer/
