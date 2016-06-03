@@ -1,0 +1,4 @@
+environment_keys:
+ SLACK_TOKEN: your_info
+ SLACK_WEBHOOK_SECRET: your_info
+ SHEET_ID: your_info
